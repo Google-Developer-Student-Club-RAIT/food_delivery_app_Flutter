@@ -135,6 +135,26 @@ git push -u origin <your_branch_name>
 <img src="https://i.ibb.co/cyZ0K85/myorder.jpg" height="400" width="200">---<img src="https://i.ibb.co/h2ztgrK/fooddetails.jpg" height="400" width="200">---<img src="https://i.ibb.co/jJBKVZb/orderss.jpg" height="400" width="200">
   
 <a id="codeStyle"></a>
+  
+  
+## Application features 
+
+- Simple UI for food delivery app's
+
+- Use SQLite to store order data in a local database 
+
+- Used firebase real-time database for syncing data to server-side 
+
+- Can add one or more food in the cart section 
+
+- Automatically total bill will generate.
+
+- Search different food/types
+
+- View previous ordered food's from your account
+
+- Google/mail auth login integrated 
+  
 ## Code-Style
 
 // make wiki guide page for dart code-style  
