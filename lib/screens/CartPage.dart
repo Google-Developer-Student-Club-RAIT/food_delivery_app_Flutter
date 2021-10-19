@@ -125,7 +125,9 @@ class _CartPageState extends State<CartPage> {
   _showDialog() async {
     await showDialog<String>(
       context: context,
-      builder:handleOrderPlacement(),
+      builder:(BuildContext context) {
+        return handleOrderPlacement();
+      },
     );
   }
 
